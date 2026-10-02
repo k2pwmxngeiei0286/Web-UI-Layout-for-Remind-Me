@@ -1,0 +1,10 @@
+{
+  "description": "Organize your schedule and capture daily thoughts with an interactive calendar and notes app designed for seamless task planning and personal journaling.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
